@@ -373,6 +373,16 @@ const bio = "你的个人简介...";
 
 ---
 
+## ⭐ Star 历史
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=1822520752/tryworld-blog&type=Date)](https://star-history.com/#1822520752/tryworld-blog&Date)
+
+</div>
+
+---
+
 ## 📄 许可证
 
 本项目基于 [MIT License](LICENSE) 开源协议。
