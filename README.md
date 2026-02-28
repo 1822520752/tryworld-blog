@@ -6,6 +6,10 @@
 
 这是试界 TryWorld 的个人博客网站，采用前后端分离架构开发，具有现代化的 UI 设计和流畅的交互体验。
 
+## 在线演示
+
+🔗 **[https://boke-zx1822520752.app.haisnap.com/](https://boke-zx1822520752.app.haisnap.com/)**
+
 ### 主要功能
 
 - 个人简介展示
